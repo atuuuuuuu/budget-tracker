@@ -1,6 +1,5 @@
 # Family budget: how it works, and how to build your own
 
-`index.html` is a **reference demo written by Claude**. Study it, then build your own version (part 3).
 Open it with `open ~/learning/budget-tracker/index.html`. Everything is saved in your browser, on this computer only.
 
 ## 1. The data: one list
